@@ -13,9 +13,3 @@ if(usersalary > 50000){
 }else{
     console.log("no tax deduct")
 }
- var a= errihuk
- if(spongesuraj== a){
-    console.log(yes)
- }else{
-    console.log(no)
- }
